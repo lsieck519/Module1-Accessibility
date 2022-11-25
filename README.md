@@ -5,13 +5,22 @@
 The purpose of this project is to create a more accessible website through semantic HTML elements, improved HTML structure and order, alt attributes for images, and a concise webpage title. These improvements are based on current accessibility standards in order to optimize our site for search engines. 
 
 
-## ACCEPTANCE CRITERIA
+## Acceptance Criteria
 
 - Semantic HTML elements
 - Logical HTML structure elements independent of styling and positioning
 - Alt attributes for images
 - Sequential heading attributes
 - Concise, descriptive title
+
+## Completed Work
+
+- Replaced most div elements with semantic HTML elements
+- Ensured logical HTML structure and order
+- Added alt attributes for images
+- Added a descriptive title relevant to the webpage content
+- Edited CSS to work with the new HTML
+- Consolidated CSS to reduce redundancy 
 
 ## Website Link: 
 
