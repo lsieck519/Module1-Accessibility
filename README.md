@@ -24,6 +24,8 @@ The purpose of this project is to create a more accessible website through seman
 
 ## Website Link: 
 
+https://lsieck519.github.io/Module1-Accessibility/
+
 ## Website Visual: 
 
 ![Horiseon Image](https://user-images.githubusercontent.com/99048123/204022687-aca8f96b-1aa2-44db-b300-6703ff96844c.png)
