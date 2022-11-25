@@ -1,11 +1,11 @@
 # Module1-Horiseon-Accessibility
 
-## Introduction
+## Introduction:
 
 The purpose of this project is to create a more accessible website through semantic HTML elements, improved HTML structure and order, alt attributes for images, and a concise webpage title. These improvements are based on current accessibility standards in order to optimize our site for search engines. 
 
 
-## Acceptance Criteria
+## Acceptance Criteria:
 
 - Semantic HTML elements
 - Logical HTML structure elements independent of styling and positioning
@@ -13,7 +13,7 @@ The purpose of this project is to create a more accessible website through seman
 - Sequential heading attributes
 - Concise, descriptive title
 
-## Completed Work
+## Completed Work:
 
 - Replaced most div elements with semantic HTML elements
 - Ensured logical HTML structure and order
